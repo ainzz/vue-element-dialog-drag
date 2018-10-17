@@ -37,7 +37,7 @@ vueElementDialogDraggable.install = function(Vue, options){
 				addEventListener('mouseup', up);
 			}
 
-			var header = el.getElementsByClassName("el-dialog__header")[0];
+			var header = el.getElementsByClassName("el-dialog")[0];
 			header.addEventListener('mousedown', down);
     }
 	});
