@@ -1,6 +1,6 @@
 {
   "name": "vue-element-dialog-draggable",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "support ElementUI dialog drag",
   "main": "index.js",
   "scripts": {
